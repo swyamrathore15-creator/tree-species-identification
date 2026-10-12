@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.8376623376623377,
+  "test_samples": 308,
+  "classes": [
+    "Fagus",
+    "Picea",
+    "Pinus",
+    "Quercus"
+  ],
+  "best_model": "D:\\ML PROJECT\\Tree Species Identification\\models\\cnn_v2_fixed_best.keras",
+  "final_model": "D:\\ML PROJECT\\Tree Species Identification\\models\\cnn_v2_fixed_final.keras"
+}

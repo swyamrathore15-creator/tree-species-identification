@@ -1,0 +1,22 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Trained model binaries (large files)
+models/*.keras
+models/*.h5
+models/*.joblib
+
+# Local environment and temporary files
+.env
+*.log
+.DS_Store
+Thumbs.db

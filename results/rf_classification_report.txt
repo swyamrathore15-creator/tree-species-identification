@@ -1,0 +1,12 @@
+Accuracy: 0.8279
+
+              precision    recall  f1-score   support
+
+       Fagus       0.82      0.77      0.79        82
+       Picea       0.86      0.88      0.87        77
+       Pinus       0.88      0.88      0.88        81
+     Quercus       0.75      0.78      0.76        68
+
+    accuracy                           0.83       308
+   macro avg       0.83      0.83      0.83       308
+weighted avg       0.83      0.83      0.83       308

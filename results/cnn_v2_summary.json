@@ -1,0 +1,21 @@
+{
+  "model": "CNN V2",
+  "classes": [
+    "Fagus",
+    "Picea",
+    "Pinus",
+    "Quercus"
+  ],
+  "official_test_samples": 308,
+  "test_accuracy": 0.7077922077922078,
+  "batch_size": 8,
+  "max_epochs": 25,
+  "seed": 42,
+  "test_split_source": "D:\\ML PROJECT\\Tree Species Identification\\data\\processed\\balanced_dataset_split.csv",
+  "best_model": "D:\\ML PROJECT\\Tree Species Identification\\models\\cnn_v2_best.keras",
+  "final_model": "D:\\ML PROJECT\\Tree Species Identification\\models\\cnn_v2_final.keras",
+  "classification_report": "D:\\ML PROJECT\\Tree Species Identification\\results\\cnn_v2_classification_report.txt",
+  "confusion_matrix_csv": "D:\\ML PROJECT\\Tree Species Identification\\results\\cnn_v2_confusion_matrix.csv",
+  "confusion_matrix_png": "D:\\ML PROJECT\\Tree Species Identification\\results\\cnn_v2_confusion_matrix.png",
+  "training_history": "D:\\ML PROJECT\\Tree Species Identification\\results\\cnn_v2_training_history.csv"
+}

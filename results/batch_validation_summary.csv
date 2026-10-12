@@ -1,0 +1,3 @@
+Model,Test samples,Accuracy (%),Macro F1-score (%)
+Random Forest,308,82.79,82.58
+CNN V2 Fixed,308,83.77,83.49

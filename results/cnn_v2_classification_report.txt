@@ -1,0 +1,21 @@
+Official test accuracy: 0.707792 (70.78%)
+
+Class order: Fagus, Picea, Pinus, Quercus
+
+              precision    recall  f1-score   support
+
+       Fagus     0.7031    0.5488    0.6164        82
+       Picea     0.7303    0.8442    0.7831        77
+       Pinus     0.6667    0.8642    0.7527        81
+     Quercus     0.7600    0.5588    0.6441        68
+
+    accuracy                         0.7078       308
+   macro avg     0.7150    0.7040    0.6991       308
+weighted avg     0.7129    0.7078    0.7000       308
+
+
+Confusion matrix (rows=true, columns=predicted):
+[[45 14 13 10]
+ [ 0 65 11  1]
+ [ 2  8 70  1]
+ [17  2 11 38]]
