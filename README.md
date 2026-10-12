@@ -10,6 +10,15 @@ The project includes dataset preparation, multispectral feature extraction, mode
 
 **Note:** The project title references UAV imagery, but the dataset used is TreeSatAI aerial imagery. The images should not be described as personally collected UAV data.
 
+## Application Screenshots
+
+### Prediction Interface
+![Tree Species Identification prediction interface](screenshots/prediction.png)
+
+### Second Prediction Example
+![Tree Species Identification second prediction example](screenshots/prediction2.png)
+
+
 ## Supported Tree Species
 
 - Fagus — European beech
